@@ -1,13 +1,27 @@
-# quark
+# compose-r
 
-Starter for creating node modules using ES6+
+![npm](https://img.shields.io/npm/v/compose-r.svg) ![license](https://img.shields.io/npm/l/compose-r.svg) ![github-issues](https://img.shields.io/github/issues/rajatsharma305/compose-r.svg)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+Reverse Composer
 
+![nodei.co](https://nodei.co/npm/compose-r.png?downloads=true&downloadRank=true&stars=true)
+
+![travis-status](https://img.shields.io/travis/rajatsharma305/compose-r.svg)
+![stars](https://img.shields.io/github/stars/rajatsharma305/compose-r.svg)
+![forks](https://img.shields.io/github/forks/rajatsharma305/compose-r.svg)
+
+![forks](https://img.shields.io/github/forks/rajatsharma305/compose-r.svg)
+
+![](https://david-dm.org/rajatsharma305/compose-r/status.svg)
+![](https://david-dm.org/rajatsharma305/compose-r/dev-status.svg)
 
 ## Features
 
-Create `Babel import/export`, `UMD` and `CommonJs` modules using ES6+.
+Reverse of Idiomatic Compose
+
+## Install
+
+`npm install --save compose-r`
 
 
 ## Scripts
@@ -36,6 +50,7 @@ Package | Version | Dev
 --- |:---:|:---:
 [babel-cli](https://www.npmjs.com/package/babel-cli) | ^6.18.0 | ✔
 [babel-core](https://www.npmjs.com/package/babel-core) | ^6.17.0 | ✔
+[babel-eslint](https://www.npmjs.com/package/babel-eslint) | ^7.2.3 | ✔
 [babel-plugin-add-module-exports](https://www.npmjs.com/package/babel-plugin-add-module-exports) | ^0.2.1 | ✔
 [babel-preset-es2015](https://www.npmjs.com/package/babel-preset-es2015) | ^6.16.0 | ✔
 [coveralls](https://www.npmjs.com/package/coveralls) | ^2.11.15 | ✔
@@ -56,6 +71,7 @@ Package | Version | Dev
 [rollup-plugin-commonjs](https://www.npmjs.com/package/rollup-plugin-commonjs) | ^7.0.0 | ✔
 [rollup-plugin-node-resolve](https://www.npmjs.com/package/rollup-plugin-node-resolve) | ^2.0.0 | ✔
 [rollup-plugin-uglify](https://www.npmjs.com/package/rollup-plugin-uglify) | ^1.0.1 | ✔
+
 
 ## Author
 
