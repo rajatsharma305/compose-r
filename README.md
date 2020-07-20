@@ -2,27 +2,17 @@
 
 ![npm](https://img.shields.io/npm/v/compose-r.svg) ![license](https://img.shields.io/npm/l/compose-r.svg)
 
-Reverse Composer
+Reverse Compose Function
 
 ![nodei.co](https://nodei.co/npm/compose-r.png?downloads=true&downloadRank=true&stars=true)
 
-![stars](https://img.shields.io/github/stars/rajatsharma305/compose-r.svg)
-![forks](https://img.shields.io/github/forks/rajatsharma305/compose-r.svg)
-
-
-## Features
-
-Reverse of Idiomatic Compose
+![stars](https://img.shields.io/github/stars/rajatsharma/compose-r.svg)
+![forks](https://img.shields.io/github/forks/rajatsharma/compose-r.svg)
 
 ## Install
 
-`npm install --save compose-r`
-
-
-## Author
-
-Rajat Sharma (rajatsharma0720@gmail.com)
+`yarn add compose-r`
 
 ## License
 
- - **MIT** : http://opensource.org/licenses/MIT
+- **MIT** : http://opensource.org/licenses/MIT
